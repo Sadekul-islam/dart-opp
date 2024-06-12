@@ -15,14 +15,4 @@ void main()
   print(myPen.Rate);
   print(myPen.conrtyOrgin);
 
-
-  print('\n');
-
-
-  Pen takdhumPen = Pen();
-  print('Takdhum');
-  print(myPen.Rate);
-  print(myPen.conrtyOrgin);
-
-
 }
